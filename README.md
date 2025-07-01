@@ -39,12 +39,33 @@
 
 ---
 
-## 📫 Contact
+## 🥧 Languages Usage
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh-1909&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shubh-1909&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/shubh-1909/shubh-1909/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 📫 Contact
 - 🌐 **GitHub:** [shubh-1909](https://github.com/shubh-1909)
-- 💬 **Open to**: Collaborations, internships, or research roles in **Bioinformatics & Data-driven Biology**
+- 💬 **Open to:** Collaborations, internships, or research roles in **Bioinformatics & Data-driven Biology**
 
 ---
 
 ⭐ **Thanks for visiting my profile!**  
-If you like my work, feel free to ⭐ star some repositories or reach out!
+If you like my work, please ⭐ star some repositories or reach out!
+
