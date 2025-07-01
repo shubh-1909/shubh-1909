@@ -1,52 +1,53 @@
 <h1 align="center">Hi 👋, I'm Shubkarandeep Singh Judge</h1>
 
 <p align="center">
-🎓 <b>M.Sc. Biotechnology</b> | 💻 <b>Minor in Computer Science</b><br>
-  [![Portfolio](https://img.shields.io/badge/Visit%20My-Portfolio-4c1?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-shubkarandeep-singh-judge-portfo.vercel.app)
-🧬 <b>Bioinformatics • 🧠 AI in Biology • 💧 Environmental Data</b><br>
-📍 India | 🌐 <a href="https://github.com/shubh-1909">GitHub: shubh-1909</a>
+🎓 <b>M.Sc. Biotechnology</b> | 💻 Minor in Computer Science  
+<br>
+[![Portfolio](https://img.shields.io/badge/Visit%20My-Portfolio-4c1?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-shubkarandeep-singh-judge-portfo.vercel.app)
+<br>
+🧬 Bioinformatics • 🧠 AI in Biology • 💧 Environmental Data  
+<br>
+📍 India | 🌐 <b>GitHub:</b> shubh-1909
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-| 🛠 Project                           | 🧭 Domain            | 🔍 Description                                                    |
-|-------------------------------------|----------------------|-------------------------------------------------------------------|
-| 🧪 **Protein Property Analyzer**    | Bioinformatics       | Calculate MW, GC content, hydrophobicity using BioPython          |
-| 🔁 **RNA Translator**               | Genetics             | Convert DNA → RNA → Protein using codon logic                     |
-| 🧬 **FASTA DNA Analyzer**           | Genomics             | Reads `.fasta`, gives GC%, reverse complement, stats              |
-| 🧬 **HIV Epitope Mapping**          | Immunoinformatics    | Predicts B-cell & T-cell epitopes from HIV-1 envelope protein     |
-| 🔍 **Sequence Alignment Visualizer**| Computational Bio    | Global & local alignment with visual match plots                  |
-| 🌳 **Phylogenetic Tree Builder**    | Evolutionary Bio     | Builds trees from aligned sequences, with visualization           |
-| 🔬 **ORF Finder & Gene Prediction** | Genomics             | Identifies ORFs & predicts genes from DNA sequences               |
-| 🌫 **Air Quality Visualizer**       | Environment          | Calculates & visualizes air quality index (AQI)                   |
-| 💧 **Water Quality Index Calculator** | Environment       | Rates water quality from pH, BOD, DO, etc.                        |
-| 🦠 **COVID-19 Data Analysis**       | Epidemiology         | India & global stats analysis using Pandas & Seaborn              |
+| 🛠 Project                          | 🧭 Domain            | 🔍 Description                                         |
+|------------------------------------|----------------------|--------------------------------------------------------|
+| [🧪 Protein Property Analyzer](https://github.com/shubh-1909/protein-property-analyzer) | Bioinformatics       | Calculate MW, GC content, hydrophobicity using BioPython |
+| [🔁 RNA Translator](https://github.com/shubh-1909/rna_translator) | Genetics             | Convert DNA → RNA → Protein using codon logic         |
+| [🧬 FASTA DNA Analyzer](https://github.com/shubh-1909/fasta-dna-analyzer) | Genomics             | Reads .fasta, gives GC%, reverse complement, stats    |
+| [🧬 HIV Epitope Mapping](https://github.com/shubh-1909/hiv-epitope-mapping) | Immunoinformatics    | Predicts B-cell & T-cell epitopes from HIV-1 sequence |
+| [🔍 Sequence Alignment Visualizer](https://github.com/shubh-1909/sequence-alignment-visualizer) | Computational Bio    | Global & local alignment with visual match plots      |
+| [🌳 Phylogenetic Tree Builder](https://github.com/shubh-1909/phylogenetic-tree-builder) | Evolutionary Bio     | Builds trees from aligned sequences, with visualization |
+| [🔬 ORF Finder & Gene Prediction](https://github.com/shubh-1909/orf-finder-gene-prediction) | Genomics             | Identifies ORFs & predicts genes from DNA sequences   |
+| [🌫 Air Quality Visualizer](https://github.com/shubh-1909/air-quality-visualizer) | Environment          | Calculates & visualizes AQI                          |
+| [💧 Water Quality Index Calculator](https://github.com/shubh-1909/water-quality-index-calculator) | Environment          | Rates water quality from pH, BOD, DO, etc.           |
+| [🦠 COVID-19 Data Analysis](https://github.com/shubh-1909/covid19-global-dashboard) | Epidemiology         | India & global stats analysis using Pandas & Seaborn |
 
 ---
 
 ## 🛠 Skills & Technologies
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![BioPython](https://img.shields.io/badge/BioPython-FFDD44?style=flat)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0088cc?style=flat&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-138080?style=flat)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+- **Programming:** Python  
+- **Bioinformatics:** BioPython  
+- **Data Analysis & ML:** Pandas, NumPy, Scikit-learn, TensorFlow  
+- **Visualization:** Matplotlib, Seaborn  
+- **Tools:** Git, VS Code, Google Colab, Streamlit  
+- **Domain Knowledge:** Bioinformatics, Cancer Genomics, Immunoinformatics, Environmental Data Science
 
 ---
 
-
 ## 📫 Contact
+
 - 🌐 **GitHub:** [shubh-1909](https://github.com/shubh-1909)
-- 💬 **Open to:** Collaborations, internships, or research roles in **Bioinformatics & Data-driven Biology**
+- 💬 **Open to:** Collaborations, internships, or research roles in Bioinformatics & Data-driven Biology.
 
 ---
 
 ⭐ **Thanks for visiting my profile!**  
 If you like my work, please ⭐ star some repositories or reach out!
+
 
