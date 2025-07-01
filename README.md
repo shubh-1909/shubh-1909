@@ -39,26 +39,6 @@
 
 ---
 
-## 🥧 Languages Usage
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh-1909&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shubh-1909&theme=radical" alt="GitHub Streak" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/shubh-1909/shubh-1909/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
 
 ## 📫 Contact
 - 🌐 **GitHub:** [shubh-1909](https://github.com/shubh-1909)
