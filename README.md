@@ -3,9 +3,7 @@
 <p align="center">
 🎓 <b>M.Sc. Biotechnology</b> | 💻 Minor in Computer Science  
 <br>
-<a href="https://v0-shubkarandeep-singh-judge-portfo.vercel.app">
-  <img src="https://img.shields.io/badge/Visit%20My-Portfolio-4c1?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge">
-</a>
+<a href="https://v0-shubkarandeep-singh-judge-portfo.vercel.app"><b>🚀 Visit My Portfolio</b></a>
 <br>
 🧬 Bioinformatics • 🧠 AI in Biology • 💧 Environmental Data  
 <br>
@@ -49,5 +47,3 @@
 
 ⭐ **Thanks for visiting my profile!**  
 If you like my work, please ⭐ star some repositories or connect with me!
-
-
