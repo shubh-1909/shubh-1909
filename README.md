@@ -39,19 +39,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shubh-1909&show_icons=true&theme=default" alt="Shub's GitHub stats" />
-</p>
-
----
-
-## 📈 Visitor Badge
-![Visitor Count](https://profile-counter.glitch.me/shubh-1909/count.svg)
-
----
-
 ## 📫 Contact
 
 - 🌐 **GitHub:** [shubh-1909](https://github.com/shubh-1909)
