@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shubkarandeep Singh Judge</h1>
 
 <p align="center">
-🎓 <b>M.Sc. Biotechnology</b> | 💻 <b>Minor in Computer Science</b><br>
+🎓 <b>M.Sc. Biotechnology</b> | 💻 <b>Minor in Computer Science</b><br> Portfolio: https://v0-shubkarandeep-singh-judge-portfo.vercel.app
+
 🧬 <b>Bioinformatics • 🧠 AI in Biology • 💧 Environmental Data</b><br>
 📍 India | 🌐 <a href="https://github.com/shubh-1909">GitHub: shubh-1909</a>
 </p>
