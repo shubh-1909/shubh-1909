@@ -16,6 +16,7 @@
 
 | 🛠 Project | 🧭 Domain | 🔍 Description |
 |-----------|-----------|----------------|
+| [💊 Liver Cancer Drug Repurposing](https://github.com/shubh-1909/liver-cancer-drug-repurposing) | Cancer Genomics & ML | Machine learning pipeline to identify drug repurposing candidates for liver cancer |
 | [🧪 Protein Property Analyzer](https://github.com/shubh-1909/protein-property-analyzer) | Bioinformatics | Calculate MW, GC content, hydrophobicity |
 | [🔁 RNA Translator](https://github.com/shubh-1909/rna_translator) | Genetics | Convert DNA → RNA → Protein using codon logic |
 | [🧬 FASTA DNA Analyzer](https://github.com/shubh-1909/fasta-dna-analyzer) | Genomics | Reads .fasta, gives GC%, reverse complement, stats |
@@ -47,3 +48,4 @@
 
 ⭐ **Thanks for visiting my profile!**  
 If you like my work, please ⭐ star some repositories or connect with me!
+
